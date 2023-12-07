@@ -1,16 +1,22 @@
-# Vanilla JS Projects
+# Recopilación de proyectos vanilla javascript
 
-#### Enroll In The Course
+## Aquí subo pequeños proyectos que voy realizando a traves de mi desarrollo como desarrollador(jaja). Espero les resulte atractivo y util si quieren ideas
 
-[My Javascript Course](https://www.udemy.com/course/javascript-tutorial-for-beginners-w/?referralCode=DD9FA6C0D976918D3E1C)
+### Mis redes
 
-#### Support
+[Github](https://github.com/Scorpiojk)
+[Linkedin](https://www.linkedin.com/in/jose-kolomenski-756173215/)
+[Twitter](https://twitter.com/JoseProgram)
 
-Find the Content Useful? [You can always buy me a coffee](https://www.buymeacoffee.com/johnsmilga)
+#### Estos 15 primeros proyectos son sacados del video de FreeCodeCamp
 
-## You can see all projects in action here
+[Build 15 JavaScript Projects - Vanilla JavaScript Course](https://www.youtube.com/watch?v=3PHXvlpOkf4&list=PLiFTQyUnBo3tVJBZRdp3PnwePCk23d1Ai&index=5&t=100s)
 
-[Projects](https://www.vanillajavascriptprojects.com/)
+#### Para ayudar al creador!
+
+[Comprale un cafe!](https://www.buymeacoffee.com/johnsmilga)
+
+## Lista de los proyectos
 
 1. Color Flipper
 2. Counter
@@ -27,20 +33,3 @@ Find the Content Useful? [You can always buy me a coffee](https://www.buymeacoff
 13. Lorem Ipsum
 14. Grocery Bud
 15. Slider
-
-#### Course Exclusive
-
-16. Counters (OOP)
-17. Gallery (OOP)
-18. Numbers
-19. Dark Mode
-20. Filters
-21. Dad Jokes
-22. Products
-23. Random User
-24. Cocktails
-25. Slider
-26. Stripe Submenus
-27. Pagination
-28. Wikipedia
-29. Comfy Sloth
