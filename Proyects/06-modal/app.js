@@ -6,9 +6,16 @@
 const openModalBtn = document.querySelector(".modal-btn");
 const closeModalBtn = document.querySelector(".close-btn");
 const modal = document.querySelector(".modal-overlay");
+const hero = document.querySelector(".hero");
 
 openModalBtn.addEventListener("click", () => modal.classList.add("open-modal"));
 
 closeModalBtn.addEventListener("click", () =>
   modal.classList.remove("open-modal")
 );
+
+modal.addEventListener("click", (e) => {
+  if (modal.classList.contains("open-modal")) {
+    modal.classList.remove("open-modal");
+  }
+});
